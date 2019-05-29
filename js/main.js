@@ -23,7 +23,7 @@ var southWest = L.latLng(37.015900, -123.355811),
     bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
- maxBounds: bounds,
+ // maxBounds: bounds,
  center: [37.790043, -122.208451],
  zoom: 11,
  minZoom: 7,
