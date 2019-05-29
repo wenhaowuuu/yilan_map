@@ -1,0 +1,58 @@
+Peking Univ:
+(39.9943004, 116.3117641)
+
+Tsinghua Univ:
+(39.9999141, 116.3262865)
+Renmin Univ:
+(39.9712165, 116.3140291)
+Beijing Normal Univ:
+(39.9621200, 116.3661299)
+Beijing Jiaotong Univ:
+(39.9529718, 116.3473583)
+(39.9529446, 116.3476194)
+Beijing forestry Univ:
+(40.0046934, 116.3500582)
+Nanjing Univ:
+(32.0569270, 118.7791103)
+Hongkong AECOM:
+(22.2810524, 114.1731035)
+Sun Yatsem Univ:
+(23.0966368, 113.2989014)
+SF CHS Consulting:
+(37.7914104, -122.4012865)
+Boston:
+(42.3563342, -71.0569089)
+SOM SF:
+(37.7956599, -122.3992066)
+
+China UPD:
+(39.9324382, 116.3325451)
+Shenzhen UPDIS:
+(22.5466233, 114.0933542)
+Shenzhen transportation academy:
+
+WRI:
+
+
+New York Arup:
+(40.7047806, -74.0084362)
+Cornell:
+(42.4536353, -76.4734023)
+San Francisco:
+
+London UCL:
+(51.5049810, -0.0194589)
+
+Shanghai UPD:
+(31.2288366, 121.4492789)
+
+New York Univ:
+(40.7297073, -73.9965144)
+UPENN:
+(39.9522858, -75.1932927)
+
+UC Berkeley
+(37.8720674, -122.2585865)
+
+World Bank
+(39.9110632, 116.4602229)
